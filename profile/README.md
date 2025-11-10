@@ -1,4 +1,4 @@
-[![Endurant](../img/Endurant Logo - banner.png)](https://endurant.co/)
+[![Endurant](./Endurant Logo - banner.png)](https://endurant.co/)
 
 # Empowering everyone to build an endurance lifestyle. #builtforlife
 
