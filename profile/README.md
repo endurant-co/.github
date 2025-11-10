@@ -1,6 +1,6 @@
 [![Endurant](./Endurant%20Logo%20-%20banner.png)](https://endurant.co/)
 
-# Empowering everyone to build an endurance lifestyle. #builtforlife
+# Empowering everyone to build an endurance lifestyle.
 
 Endurant is a platform for everyone in endurance sports, whether you are an elite, amateur, or lifestyle athlete.
 
