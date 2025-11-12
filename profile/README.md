@@ -8,7 +8,7 @@ At Endurant, we believe that becoming strong and healthy is a gateway to a bette
 
 ### Follow our work and stay tuned for our launch
 
-- Instagram: [@endurant_co](https://www.instagram.com/endurant_co/)
 - Substack: [@endurantco](https://endurantco.substack.com)
+- Instagram: [@endurant_co](https://www.instagram.com/endurant_co/)
 - LinkedIn: [Endurant](https://www.linkedin.com/company/endurant-co)
 - X: [@endurant_co](https://x.com/endurant_co)
