@@ -1,4 +1,4 @@
-[![Endurant](./Endurant%20Logo%20-%20banner.png)](https://endurant.co/)
+[![Endurant](./Endurant%20Logo%20-%20GitHub%20banner.png)](https://endurant.co/)
 
 # Empowering everyone to build an endurance lifestyle.
 
